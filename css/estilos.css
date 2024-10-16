@@ -16,9 +16,12 @@ nav {
 .titulo {
     float: left;
     color: rgb(6, 123, 194);
-    font-size: 80px;
+    font-size: 100px;
     padding: 10px 10px;
-    margin-top: 20px;
+    margin-top: 10px;
+    font-family: "Creepster", system-ui;
+    font-weight: 900;
+    font-style: normal;
 }
 
 nav a {
